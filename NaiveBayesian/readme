@@ -1,0 +1,4 @@
+"""
+a naive bayesian classification for one-dimension data
+output: best choice and minimum risk
+"""
